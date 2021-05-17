@@ -1,2 +1,4 @@
 before first commit
 second commit
+
+commit in Feature1
